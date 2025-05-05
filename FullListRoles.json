@@ -614,19 +614,74 @@
     "Ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
     "Image": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png"
   },
-  "legion": {
-    "Name": "Legion",
-    "Ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
-    "Image": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_legion.png"
+  "widow": {
+    "Name": "Widow",
+    "Ability": "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/widow_moreimages.png"
+  },
+  "fearmonger": {
+    "Name": "Fearmonger",
+    "Ability": "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/fearmonger_moreimages.png"
+  },
+  "psychopath": {
+    "Name": "Psychopath",
+    "Ability": "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/psychopath_moreimages.png"
   },
   "goblin": {
     "Name": "Goblin",
     "Ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.",
-    "Image": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_goblin.png"
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/goblin_moreimages.png"
+  },
+  "mephit": {
+    "Name": "Mephit",
+    "Ability": "You start knowing a secret word. The 1st good player to say this word becomes evil that night.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/mephit_moreimages.png"
+  },
+  "mezepheles": {
+    "Name": "Mezepheles",
+    "Ability": "You start knowing a secret word. The 1st good player to say this word becomes evil that night.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/mezepheles_moreimages.png"
   },
   "marionette": {
     "Name": "Marionette",
-    "Ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
-    "Image": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png"
+    "Ability": "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/marionette_moreimages.png"
+  },
+  "boomdandy": {
+    "Name": "Boomdandy",
+    "Ability": "If you are executed, all but 3 players die. 1 minute later, the player with the most players pointing at them dies.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/boomdandy_moreimages.png"
+  },
+  "lilmonsta": {
+    "Name": "Lil' Monsta",
+    "Ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". A player dies each night*. [+1 Minion]",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/lilmonsta_moreimages.png"
+  },
+  "lleech": {
+    "Name": "Lleech",
+    "Ability": "Each night*, choose a player: they die. You start by choosing an alive player: they are poisoned - you die if & only if they die.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/lleech_moreimages.png"
+  },
+  "alhadikhia": {
+    "Name": "Al-Hadikhia",
+    "Ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/alhadikhia_moreimages.png"
+  },
+  "legion": {
+    "Name": "Legion",
+    "Ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/legion_moreimages.png"
+  },
+  "leviathan": {
+    "Name": "Leviathan",
+    "Ability": "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins.",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/leviathan_moreimages.png"
+  },
+  "riot": {
+    "Name": "Riot",
+    "Ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+    "Image": "https://www.bloodstar.xyz/p/Jimbusk/MoreImages/riot_moreimages.png"
   }
 }
